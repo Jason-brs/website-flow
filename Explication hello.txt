@@ -1,1 +1,1 @@
-Le premier commit continient une faute d'hortographe "Hello Wrold" donc l'erreure a était modifier dans un deuxieme commit  
+Le premier commit continient une faute d'hortographe "Hello Wrold" donc l'erreure a était modifier dans un deuxieme commit
